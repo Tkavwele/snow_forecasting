@@ -1,0 +1,19 @@
+The Best Model: CatBoosting Classifier
+Test Accuracy: 88.16%
+Precision: 0.4062
+Recall: 0.1436
+F1 Score: 0.2122
+
+Confusion Matrix:
+[[1411   38]
+ [ 155   26]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      0.97      0.94      1449
+           1       0.41      0.14      0.21       181
+
+    accuracy                           0.88      1630
+   macro avg       0.65      0.56      0.57      1630
+weighted avg       0.85      0.88      0.86      1630
